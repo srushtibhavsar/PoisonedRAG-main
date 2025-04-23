@@ -1,0 +1,1585 @@
+{
+    "nodes": [
+        {
+            "id": "market_economy",
+            "label": "concept",
+            "attributes": {
+                "name": "market economy"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "planned_economy",
+            "label": "concept",
+            "attributes": {
+                "name": "planned economy"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "capitalism",
+            "label": "concept",
+            "attributes": {
+                "name": "capitalism"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "laissez_faire",
+            "label": "concept",
+            "attributes": {
+                "name": "laissez-faire"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "welfare_capitalism",
+            "label": "concept",
+            "attributes": {
+                "name": "welfare capitalism"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "anglo_saxon_capitalism",
+            "label": "concept",
+            "attributes": {
+                "name": "anglo-saxon capitalism"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "east_asian_capitalism",
+            "label": "concept",
+            "attributes": {
+                "name": "east asian capitalism"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "social_market_economy",
+            "label": "concept",
+            "attributes": {
+                "name": "social market economy"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "market_socialism",
+            "label": "concept",
+            "attributes": {
+                "name": "market socialism"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "oskar_lange",
+            "label": "person",
+            "attributes": {
+                "name": "oskar lange"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "abba_lerner",
+            "label": "person",
+            "attributes": {
+                "name": "abba lerner"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "john_roemer",
+            "label": "person",
+            "attributes": {
+                "name": "john roemer"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "branko_horvat",
+            "label": "person",
+            "attributes": {
+                "name": "branko horvat"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "jaroslav_vanek",
+            "label": "person",
+            "attributes": {
+                "name": "jaroslav vanek"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "joseph_stiglitz",
+            "label": "person",
+            "attributes": {
+                "name": "joseph stiglitz"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "robin_hahnel",
+            "label": "person",
+            "attributes": {
+                "name": "robin hahnel"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "michael_albert",
+            "label": "person",
+            "attributes": {
+                "name": "michael albert"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "david_mcnally",
+            "label": "person",
+            "attributes": {
+                "name": "david mcnally"
+            },
+            "documentId": "merged_doc9"
+        },
+        {
+            "id": "cant_help_falling_in_love",
+            "label": "song",
+            "attributes": {
+                "name": "can't help falling in love"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "elvis_presley",
+            "label": "person",
+            "attributes": {
+                "name": "elvis presley"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "blue_hawaii",
+            "label": "work",
+            "attributes": {
+                "name": "blue hawaii",
+                "releaseYear": "1961"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "ub40",
+            "label": "organization",
+            "attributes": {
+                "name": "ub40"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "a_teens",
+            "label": "organization",
+            "attributes": {
+                "name": "a-teens"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "gladys_music",
+            "label": "organization",
+            "attributes": {
+                "name": "gladys music"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "jean_paul_martini",
+            "label": "person",
+            "attributes": {
+                "name": "jean-paul-\u00e9gide martini"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "royal_philharmonic_orchestra",
+            "label": "organization",
+            "attributes": {
+                "name": "royal philharmonic orchestra"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "id": "lorraine_toussaint",
+            "label": "person",
+            "attributes": {
+                "name": "Lorraine Toussaint",
+                "birthDate": "1960-04-04",
+                "nationality": "trinidadian-american",
+                "occupation": "actress and producer"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "rene_jackson",
+            "label": "person",
+            "attributes": {
+                "name": "Rene Jackson",
+                "role": "lawyer"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "any_day_now",
+            "label": "television_series",
+            "attributes": {
+                "name": "Any Day Now",
+                "premiereDates": "1998",
+                "endDates": "2002"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "shambala_green",
+            "label": "person",
+            "attributes": {
+                "name": "Shambala Green",
+                "role": "defense attorney"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "law_order",
+            "label": "television_series",
+            "attributes": {
+                "name": "Law & Order"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "crossing_jordan",
+            "label": "television_series",
+            "attributes": {
+                "name": "Crossing Jordan",
+                "premiereDates": "2002",
+                "endDates": "2003"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "saving_grace",
+            "label": "television_series",
+            "attributes": {
+                "name": "Saving Grace",
+                "premiereDates": "2007",
+                "endDates": "2010"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "middle_of_nowhere",
+            "label": "work",
+            "attributes": {
+                "name": "Middle of Nowhere",
+                "releaseDate": "2012",
+                "director": "Ava DuVernay"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "orange_is_the_new_black",
+            "label": "television_series",
+            "attributes": {
+                "name": "Orange Is the New Black"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "vee_parker",
+            "label": "person",
+            "attributes": {
+                "name": "Yvonne \"Vee\" Parker",
+                "role": "antagonist"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "selma",
+            "label": "work",
+            "attributes": {
+                "name": "Selma",
+                "releaseDate": "2014",
+                "director": "Ava DuVernay"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "amelia_boynton_robinson",
+            "label": "person",
+            "attributes": {
+                "name": "Amelia Boynton Robinson",
+                "role": "civil rights activist"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "samara_toussaint",
+            "label": "person",
+            "attributes": {
+                "name": "Samara Toussaint",
+                "relation": "daughter"
+            },
+            "documentId": "merged_doc46"
+        },
+        {
+            "id": "general_armitage_hux",
+            "label": "person",
+            "attributes": {
+                "name": "general armitage hux",
+                "role": "commander"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "brendol_hux",
+            "label": "person",
+            "attributes": {
+                "name": "brendol hux",
+                "role": "commandant"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "first_order",
+            "label": "organization",
+            "attributes": {
+                "name": "first order"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "supreme_leader_snoke",
+            "label": "person",
+            "attributes": {
+                "name": "supreme leader snoke",
+                "role": "leader"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "kylo_ren",
+            "label": "person",
+            "attributes": {
+                "name": "kylo ren",
+                "role": "commander"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "luke_skywalker",
+            "label": "person",
+            "attributes": {
+                "name": "luke skywalker",
+                "role": "jedi"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "leia_organa",
+            "label": "person",
+            "attributes": {
+                "name": "leia organa",
+                "role": "general"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "resistance",
+            "label": "organization",
+            "attributes": {
+                "name": "resistance"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "starkiller_base",
+            "label": "location",
+            "attributes": {
+                "name": "starkiller base"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "hosnian_prime",
+            "label": "location",
+            "attributes": {
+                "name": "hosnian prime"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "dqar",
+            "label": "location",
+            "attributes": {
+                "name": "d'qar"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "arkanis",
+            "label": "location",
+            "attributes": {
+                "name": "arkanis"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "galactic_civil_war",
+            "label": "event",
+            "attributes": {
+                "name": "galactic civil war"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "battle_of_jakku",
+            "label": "event",
+            "attributes": {
+                "name": "battle of jakku"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "galactic_concordance",
+            "label": "event",
+            "attributes": {
+                "name": "galactic concordance"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "id": "chinese_new_year",
+            "label": "event",
+            "attributes": {
+                "name": "chinese new year",
+                "otherNames": "spring festival, lunar new year"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "nian",
+            "label": "concept",
+            "attributes": {
+                "name": "nian",
+                "description": "mythical beast associated with the Chinese New Year"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "lantern_festival",
+            "label": "event",
+            "attributes": {
+                "name": "lantern festival"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "lunisolar_chinese_calendar",
+            "label": "concept",
+            "attributes": {
+                "name": "lunisolar chinese calendar",
+                "reference": "determines the date of the Chinese New Year"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "lunar_new_year_2018",
+            "label": "event",
+            "attributes": {
+                "name": "lunar new year 2018",
+                "firstDay": "2018-02-16",
+                "zodiac": "dog"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "kichun",
+            "label": "concept",
+            "attributes": {
+                "name": "lichun",
+                "meaning": "start of spring"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "greater_china",
+            "label": "location",
+            "attributes": {
+                "name": "greater china"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "overseas_chinese_communities",
+            "label": "concept",
+            "attributes": {
+                "name": "overseas chinese communities"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "hongjun_laozu",
+            "label": "person",
+            "attributes": {
+                "name": "hongjun laozu",
+                "role": "taoist monk"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "nbc",
+            "label": "organization",
+            "attributes": {
+                "name": "nbc"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "id": "isle_of_dogs",
+            "label": "work",
+            "attributes": {
+                "name": "isle of dogs",
+                "type": "film",
+                "releaseYear": "2018"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "wes_anderson",
+            "label": "person",
+            "attributes": {
+                "name": "wes anderson",
+                "role": "director"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "bryan_cranston",
+            "label": "person",
+            "attributes": {
+                "name": "bryan cranston",
+                "role": "voice_cast"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "edward_norton",
+            "label": "person",
+            "attributes": {
+                "name": "edward norton",
+                "role": "voice_cast"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "bill_murray",
+            "label": "person",
+            "attributes": {
+                "name": "bill murray",
+                "role": "voice_cast"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "jeff_goldblum",
+            "label": "person",
+            "attributes": {
+                "name": "jeff goldblum",
+                "role": "voice_cast"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "greta_gerwig",
+            "label": "person",
+            "attributes": {
+                "name": "greta gerwig",
+                "role": "voice_cast"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "frances_mcdormand",
+            "label": "person",
+            "attributes": {
+                "name": "frances mcdormand",
+                "role": "voice_cast"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "alexandre_desplat",
+            "label": "person",
+            "attributes": {
+                "name": "alexandre desplat",
+                "role": "composer"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "american_empirical_pictures",
+            "label": "organization",
+            "attributes": {
+                "name": "american empirical pictures"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "indian_paintbrush",
+            "label": "organization",
+            "attributes": {
+                "name": "indian paintbrush"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "fox_searchlight_pictures",
+            "label": "organization",
+            "attributes": {
+                "name": "fox searchlight pictures"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "berlin_international_film_festival_2018",
+            "label": "event",
+            "attributes": {
+                "name": "68th berlin international film festival",
+                "year": "2018"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "sxsw_film_festival_2018",
+            "label": "event",
+            "attributes": {
+                "name": "sxsw film festival",
+                "year": "2018"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "akira_kurosawa",
+            "label": "person",
+            "attributes": {
+                "name": "akira kurosawa"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "id": "the_vampire_diaries",
+            "label": "television_series",
+            "attributes": {
+                "name": "The Vampire Diaries",
+                "genre": "fantasy-drama",
+                "startYear": "2009",
+                "endYear": "2017",
+                "episodeCount": 171,
+                "seasonCount": 8
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "the_cw",
+            "label": "organization",
+            "attributes": {
+                "name": "The CW"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "kevin_williamson",
+            "label": "person",
+            "attributes": {
+                "name": "Kevin Williamson",
+                "role": "adapter"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "julie_plec",
+            "label": "person",
+            "attributes": {
+                "name": "Julie Plec",
+                "role": "adapter"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "lj_smith",
+            "label": "person",
+            "attributes": {
+                "name": "L.J. Smith",
+                "role": "author"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "the_originals",
+            "label": "television_series",
+            "attributes": {
+                "name": "The Originals"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "mystic_falls",
+            "label": "location",
+            "attributes": {
+                "name": "Mystic Falls",
+                "state": "Virginia",
+                "isFictional": true
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "elena_gilbert",
+            "label": "person",
+            "attributes": {
+                "name": "Elena Gilbert",
+                "role": "central character"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "stefan_salvatore",
+            "label": "person",
+            "attributes": {
+                "name": "Stefan Salvatore",
+                "role": "vampire"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "damon_salvatore",
+            "label": "person",
+            "attributes": {
+                "name": "Damon Salvatore",
+                "role": "vampire"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "katherine_pierce",
+            "label": "person",
+            "attributes": {
+                "name": "Katherine Pierce",
+                "role": "antagonist"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "john_gilbert",
+            "label": "person",
+            "attributes": {
+                "name": "John Gilbert",
+                "relation": "father"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "isobel_flemming",
+            "label": "person",
+            "attributes": {
+                "name": "Isobel Flemming",
+                "isVampire": true,
+                "relation": "mother"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "grayson_gilbert",
+            "label": "person",
+            "attributes": {
+                "name": "Grayson Gilbert",
+                "relation": "adoptive father"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "miranda_gilbert",
+            "label": "person",
+            "attributes": {
+                "name": "Miranda Gilbert",
+                "relation": "adoptive mother"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "jeremy_gilbert",
+            "label": "person",
+            "attributes": {
+                "name": "Jeremy Gilbert",
+                "role": "adoptive brother"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "jenna_sommers",
+            "label": "person",
+            "attributes": {
+                "name": "Jenna Sommers",
+                "role": "adoptive aunt",
+                "guardian": "legal"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "kai_parker",
+            "label": "person",
+            "attributes": {
+                "name": "Kai Parker",
+                "role": "antagonist"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "bonnie_bennett",
+            "label": "person",
+            "attributes": {
+                "name": "Bonnie Bennett",
+                "role": "witch"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "caroline_forbes",
+            "label": "person",
+            "attributes": {
+                "name": "Caroline Forbes",
+                "role": "vampire"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "matt_donovan",
+            "label": "person",
+            "attributes": {
+                "name": "Matt Donovan",
+                "role": "sheriff"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "tyler_lockwood",
+            "label": "person",
+            "attributes": {
+                "name": "Tyler Lockwood",
+                "role": "werewolf"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "alaric_saltzman",
+            "label": "person",
+            "attributes": {
+                "name": "Alaric Saltzman",
+                "role": "teacher"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "enzo_john",
+            "label": "person",
+            "attributes": {
+                "name": "Enzo John",
+                "role": "vampire"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "liz_forbes",
+            "label": "person",
+            "attributes": {
+                "name": "Liz Forbes",
+                "role": "sheriff"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "carol_lockwood",
+            "label": "person",
+            "attributes": {
+                "name": "Carol Lockwood",
+                "relation": "mother"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "richard_lockwood",
+            "label": "person",
+            "attributes": {
+                "name": "Richard Lockwood",
+                "relation": "father"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "annabelle",
+            "label": "person",
+            "attributes": {
+                "name": "Annabelle",
+                "mother": "Pearl"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "id": "pearl",
+            "label": "person",
+            "attributes": {
+                "name": "Pearl"
+            },
+            "documentId": "merged_doc83"
+        }
+    ],
+    "relationships": [
+        {
+            "source": "market_economy",
+            "target": "planned_economy",
+            "type": "CONTRASTED_WITH",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "capitalism",
+            "target": "market_economy",
+            "type": "RELATED_TO",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "laissez_faire",
+            "target": "free_market_economy",
+            "type": "SYNONYMOUS_WITH",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "welfare_capitalism",
+            "target": "capitalism",
+            "type": "VARIATION_OF",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "anglo_saxon_capitalism",
+            "target": "capitalism",
+            "type": "VARIATION_OF",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "east_asian_capitalism",
+            "target": "capitalism",
+            "type": "VARIATION_OF",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "social_market_economy",
+            "target": "market_economy",
+            "type": "RELATED_TO",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "market_socialism",
+            "target": "socialism",
+            "type": "RELATED_TO",
+            "attributes": {},
+            "documentId": "merged_doc9"
+        },
+        {
+            "source": "elvis_presley",
+            "target": "cant_help_falling_in_love",
+            "type": "RECORDED_BY",
+            "attributes": {},
+            "documentId": "merged_doc11"
+        },
+        {
+            "source": "gladys_music",
+            "target": "cant_help_falling_in_love",
+            "type": "PUBLISHED_BY",
+            "attributes": {},
+            "documentId": "merged_doc11"
+        },
+        {
+            "source": "ub40",
+            "target": "cant_help_falling_in_love",
+            "type": "RECORDED_BY",
+            "attributes": {
+                "year": "1993"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "source": "a_teens",
+            "target": "cant_help_falling_in_love",
+            "type": "RECORDED_BY",
+            "attributes": {},
+            "documentId": "merged_doc11"
+        },
+        {
+            "source": "elvis_presley",
+            "target": "blue_hawaii",
+            "type": "FEATURED_IN",
+            "attributes": {},
+            "documentId": "merged_doc11"
+        },
+        {
+            "source": "cant_help_falling_in_love",
+            "target": "jean_paul_martini",
+            "type": "MELODY_BASED_ON",
+            "attributes": {},
+            "documentId": "merged_doc11"
+        },
+        {
+            "source": "royal_philharmonic_orchestra",
+            "target": "cant_help_falling_in_love",
+            "type": "PERFORMED_WITH",
+            "attributes": {
+                "year": "2015",
+                "context": "If I Can Dream album"
+            },
+            "documentId": "merged_doc11"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "rene_jackson",
+            "type": "PLAYED_ROLE",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "any_day_now",
+            "type": "STARRED_IN",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "shambala_green",
+            "type": "RECURRING_ROLE",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "shambala_green",
+            "target": "law_order",
+            "type": "APPEARED_IN",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "crossing_jordan",
+            "type": "REGULAR_CAST_MEMBER",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "saving_grace",
+            "type": "REGULAR_CAST_MEMBER",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "middle_of_nowhere",
+            "type": "STARRED_IN",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "middle_of_nowhere",
+            "target": "ava_duvernay",
+            "type": "DIRECTED_BY",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "orange_is_the_new_black",
+            "type": "STARRED_IN",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "vee_parker",
+            "type": "PLAYED_ROLE",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "selma",
+            "type": "STARRED_IN",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "amelia_boynton_robinson",
+            "type": "PLAYED_ROLE",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "selma",
+            "target": "ava_duvernay",
+            "type": "DIRECTED_BY",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "lorraine_toussaint",
+            "target": "samara_toussaint",
+            "type": "HAS_CHILD",
+            "attributes": {},
+            "documentId": "merged_doc46"
+        },
+        {
+            "source": "general_armitage_hux",
+            "target": "first_order",
+            "type": "COMMANDER_OF",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "general_armitage_hux",
+            "target": "arkania",
+            "type": "BORN_IN",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "general_armitage_hux",
+            "target": "brendol_hux",
+            "type": "CHILD_OF",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "brendol_hux",
+            "target": "arkanis",
+            "type": "ASSOCIATED_WITH",
+            "attributes": {
+                "role": "commandant"
+            },
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "first_order",
+            "target": "starkiller_base",
+            "type": "BASE_OF",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "first_order",
+            "target": "supreme_leader_snoke",
+            "type": "LEAD_BY",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "first_order",
+            "target": "kylo_ren",
+            "type": "IN_CONFLICT_WITH",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "first_order",
+            "target": "resistance",
+            "type": "IN_CONFLICT_WITH",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "resistance",
+            "target": "leia_organa",
+            "type": "LEAD_BY",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "starkiller_base",
+            "target": "hosnian_prime",
+            "type": "TARGETED",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "starkiller_base",
+            "target": "dqar",
+            "type": "TARGETED",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "galactic_civil_war",
+            "target": "battle_of_jakku",
+            "type": "ENDED_WITH",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "battle_of_jakku",
+            "target": "galactic_concordance",
+            "type": "FOLLOWED_BY",
+            "attributes": {},
+            "documentId": "merged_doc58"
+        },
+        {
+            "source": "chinese_new_year",
+            "target": "nian",
+            "type": "ASSOCIATED_WITH",
+            "attributes": {
+                "relationshipDescription": "nian is feared during Chinese New Year"
+            },
+            "documentId": "merged_doc66"
+        },
+        {
+            "source": "chinese_new_year",
+            "target": "greater_china",
+            "type": "CELEBRATED_IN",
+            "attributes": {},
+            "documentId": "merged_doc66"
+        },
+        {
+            "source": "chinese_new_year",
+            "target": "overseas_chinese_communities",
+            "type": "CELEBRATED_BY",
+            "attributes": {},
+            "documentId": "merged_doc66"
+        },
+        {
+            "source": "chinese_new_year",
+            "target": "lunisolar_chinese_calendar",
+            "type": "DETERMINED_BY",
+            "attributes": {},
+            "documentId": "merged_doc66"
+        },
+        {
+            "source": "lunar_new_year_2018",
+            "target": "kichun",
+            "type": "CLOSE_TO",
+            "attributes": {},
+            "documentId": "merged_doc66"
+        },
+        {
+            "source": "nian",
+            "target": "hongjun_laozu",
+            "type": "CAPTURED_BY",
+            "attributes": {},
+            "documentId": "merged_doc66"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "wes_anderson",
+            "type": "DIRECTED_BY",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "bryan_cranston",
+            "type": "FEATURES_VOICE",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "edward_norton",
+            "type": "FEATURES_VOICE",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "bill_murray",
+            "type": "FEATURES_VOICE",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "jeff_goldblum",
+            "type": "FEATURES_VOICE",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "greta_gerwig",
+            "type": "FEATURES_VOICE",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "frances_mcdormand",
+            "type": "FEATURES_VOICE",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "alexandre_desplat",
+            "type": "SCORE_COMPOSED_BY",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "american_empirical_pictures",
+            "type": "PRODUCED_BY",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "indian_paintbrush",
+            "type": "PRODUCED_BY",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "fox_searchlight_pictures",
+            "type": "DISTRIBUTED_BY",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "berlin_international_film_festival_2018",
+            "type": "OPENED_AT",
+            "attributes": {
+                "award": "silver bear for best director"
+            },
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "sxsw_film_festival_2018",
+            "type": "CLOSED_AT",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "isle_of_dogs",
+            "target": "akira_kurosawa",
+            "type": "INFLUENCED_BY",
+            "attributes": {},
+            "documentId": "merged_doc70"
+        },
+        {
+            "source": "the_vampire_diaries",
+            "target": "the_cw",
+            "type": "BROADCASTED_BY",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "kevin_williamson",
+            "target": "the_vampire_diaries",
+            "type": "ADAPTED",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "julie_plec",
+            "target": "the_vampire_diaries",
+            "type": "ADAPTED",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "lj_smith",
+            "target": "the_vampire_diaries",
+            "type": "SOURCE_AUTHOR",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "the_originals",
+            "target": "the_vampire_diaries",
+            "type": "SPIN_OFF",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "elena_gilbert",
+            "target": "stefan_salvatore",
+            "type": "RELATIONSHIP",
+            "attributes": {
+                "relationshipType": "romantic interest"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "elena_gilbert",
+            "target": "damon_salvatore",
+            "type": "RELATIONSHIP",
+            "attributes": {
+                "relationshipType": "romantic interest"
+            },
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "stefan_salvatore",
+            "target": "damon_salvatore",
+            "type": "BROTHERS",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "katherine_pierce",
+            "target": "stefan_salvatore",
+            "type": "VAMPIRE_CREATOR",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "katherine_pierce",
+            "target": "damon_salvatore",
+            "type": "VAMPIRE_CREATOR",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "john_gilbert",
+            "target": "elena_gilbert",
+            "type": "FATHER_OF",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "isobel_flemming",
+            "target": "elena_gilbert",
+            "type": "MOTHER_OF",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "grayson_gilbert",
+            "target": "elena_gilbert",
+            "type": "ADOPTIVE_PARENTS",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "miranda_gilbert",
+            "target": "elena_gilbert",
+            "type": "ADOPTIVE_PARENTS",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "jeremy_gilbert",
+            "target": "elena_gilbert",
+            "type": "ADOPTIVE_SIBLING",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "jenna_sommers",
+            "target": "elena_gilbert",
+            "type": "LEGAL_GUARDIAN",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "elena_gilbert",
+            "target": "kai_parker",
+            "type": "SACRIFICE_TARGET",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "bonnie_bennett",
+            "target": "elena_gilbert",
+            "type": "FRIENDS",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "caroline_forbes",
+            "target": "elena_gilbert",
+            "type": "FRIENDS",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "matt_donovan",
+            "target": "elena_gilbert",
+            "type": "CHILDHOOD_FRIENDS",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "tyler_lockwood",
+            "target": "caroline_forbes",
+            "type": "ROMANTIC_HISTORY",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "alaric_saltzman",
+            "target": "elena_gilbert",
+            "type": "FATHER_FIGURE",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "enzo_john",
+            "target": "damon_salvatore",
+            "type": "FRIENDSHIP",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "liz_forbes",
+            "target": "caroline_forbes",
+            "type": "MOTHER_OF",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "carol_lockwood",
+            "target": "tyler_lockwood",
+            "type": "MOTHER_OF",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "richard_lockwood",
+            "target": "tyler_lockwood",
+            "type": "FATHER_OF",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        },
+        {
+            "source": "annabelle",
+            "target": "pearl",
+            "type": "CHILD_OF",
+            "attributes": {},
+            "documentId": "merged_doc83"
+        }
+    ]
+}

@@ -4,7 +4,7 @@ def run(test_params):
 
     log_file, log_name = get_log_name(test_params)
 
-    cmd = f"nohup python3 -u main.py \
+    cmd = f"nohup python3 -u after_seminar_small_kg.py \
         --eval_model_code {test_params['eval_model_code']}\
         --eval_dataset {test_params['eval_dataset']}\
         --split {test_params['split']}\
@@ -27,7 +27,7 @@ def run(test_params):
 
 def get_log_name(test_params):
     # Generate a log file name
-    os.makedirs(f"logs/{test_params['query_results_dir']}_logs", exist_ok=True)
+    os.makedirs(f"after_seminar_small_kg/outputs/23_04_previous_kg_openai_with_kg/{test_params['query_results_dir']}_logs", exist_ok=True)
 
     if test_params['use_truth']:
         log_name = f"{test_params['eval_dataset']}-{test_params['eval_model_code']}-{test_params['model_name']}-Truth--M{test_params['M']}x{test_params['repeat_times']}"
@@ -40,7 +40,7 @@ def get_log_name(test_params):
     if test_params['note'] != None:
         log_name = test_params['note']
     
-    return f"logs/{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
+    return f"after_seminar_small_kg/outputs/23_04_previous_kg_openai_with_kg/{test_params['query_results_dir']}_logs/{log_name}.txt", log_name
 
 
 
@@ -52,7 +52,7 @@ test_params = {
     'query_results_dir': 'main',
 
     # LLM setting
-    'model_name': 'palm2', 
+    'model_name': 'llama7b', 
     'use_truth': False,
     'top_k': 5,
     'gpu_id': 0,
@@ -61,13 +61,13 @@ test_params = {
     'attack_method': 'LM_targeted',
     'adv_per_query': 5,
     'score_function': 'dot',
-    'repeat_times': 10,
-    'M': 10,
+    'repeat_times': 5,
+    'M': 5,
     'seed': 12,
 
     'note': None
 }
 
-for dataset in ['nq', 'hotpotqa', 'msmarco']:
-    test_params['eval_dataset'] = dataset
-    run(test_params)
+# for dataset in ['nq', 'hotpotqa', 'msmarco']:
+#     test_params['eval_dataset'] = dataset
+run(test_params)
